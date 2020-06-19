@@ -61,14 +61,20 @@
       <!-- The content in this div gets wrapped in a card -->
         <div class="card" style="padding: 40px 40px 40px 40px;">
           <h3 style="color: darkslateblue;">Contact Me</h3>
-          <div class="row">
-            <div class="col-lg-4">
-              <img class="img img-thumbnail" src="http://placehold.it/400x400">
+          <form>
+            <div class="form-group">
+              <label for="exampleFormControlInput1">Name</label>
+              <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="John Smith">
             </div>
-            <div class="col-lg-8">
-              <p style="color: dimgray">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nobis voluptatum vero officiis accusantium debitis enim praesentium! Assumenda blanditiis pariatur quae eligendi, nesciunt veritatis autem alias natus eveniet inventore nihil?</p>
+            <div class="form-group">
+              <label for="exampleFormControlInput1">Email</label>
+              <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
             </div>
-          </div>
+            <div class="form-group">
+              <label for="exampleFormControlTextarea1">Message</label>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
+            </div>
+          </form>
         </div>
       </div>
     </div>
