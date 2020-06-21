@@ -52,6 +52,11 @@ h6 {
     line-height: 40px;
 }
 
+/* No padding on this element */
+#social-bar {
+    padding: 0px 0px 0px 0px;
+}
+
 /* Sticky footer with negative margin */
 .footer {
     height: 50px;
