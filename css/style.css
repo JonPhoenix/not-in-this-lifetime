@@ -19,6 +19,16 @@ html, body {
     font-weight: bold;
 }
 
+/* Top padding to avoid navbar */
+.container {
+    padding-top: 100px;
+}
+
+/* Adding inner padding for desing purposes */
+.card {
+    padding: 40px 40px 40px 40px;
+}
+
 h3 {
     color: darkslateblue
 }
