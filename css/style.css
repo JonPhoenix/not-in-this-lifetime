@@ -1,6 +1,35 @@
 /* Additional css styling */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Helper for Sticky footer */
+.content {
+    min-height: 100%;
+  }
+
+  /* Helper for Sticky footer */
+.content-inside {
+    padding-bottom: 50px;
+}
+
+.navbar-brand {
+    font-size: x-large;
+    font-weight: bold;
+}
 
 p {
     color: dimgray
 }
 
+/* Designing Sticky footer using negative top margin */
+.footer {
+    height: 50px;
+    margin-top: -50px;
+    text-align: center;
+    font-size: 12px;
+    color: lightsteelblue;
+    line-height: 50px;
+    background-color: darkslateblue;
+  }
