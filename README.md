@@ -43,13 +43,14 @@ The home page uses a Jumbotron hero unit featuring a project intro with a mosaic
 
 ## Credits and References
 
-getbootstrap.com
-css-tricks.com
-freecodecamp.org
-validator.w3.org
+```
+* getbootstrap.com
+* css-tricks.com
+* freecodecamp.org
+* validator.w3.org
 
-responsivedesign.is
-gunsnroses.com
-
+* responsivedesign.is
+* gunsnroses.com
+```
 - - -
 
