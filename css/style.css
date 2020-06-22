@@ -4,12 +4,12 @@ html, body {
     margin: 0;
 }
 
-/* Element for Sticky footer */
+/* Sticky footer helper */
 .content {
     min-height: 100%;
   }
 
-/* Element for Sticky footer */
+/* Sticky footer helper */
 .content-inside {
     padding-bottom: 50px;
 }
@@ -25,12 +25,12 @@ html, body {
     padding-top: 100px;
 }
 
-/* Adding inner padding for desing purposes */
+/* Inner padding for design purposes */
 .card {
     padding: 40px 40px 40px 40px;
 }
 
-/* Adding to jumbotron lead paragraph */
+/* Color for jumbotron lead paragraph */
 .lead {
     color:dimgray;
 }
@@ -52,7 +52,7 @@ h6 {
     line-height: 40px;
 }
 
-/* No padding on this element */
+/* Cancelling padding on this element */
 #social-bar {
     padding: 0px 0px 0px 0px;
 }
