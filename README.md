@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Responsive Porfolio Project
 
 This is a mobile responsive application that combines basic knowledge on HTML, CSS and GIT with the CSS framework Bootstrap.
@@ -12,3 +13,6 @@ This project is a first experiment in the process of building a future web devel
 
 Deployment url: https://jonphoenix.github.io/not-in-this-lifetime/
 
+=======
+# Responsive Portfolio Project
+>>>>>>> adbfd0278496bfab97109ef88e8a4eaf61609f34
