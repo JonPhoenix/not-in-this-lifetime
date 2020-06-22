@@ -1,10 +1,10 @@
 # Responsive Portfolio Project
 
-This is a mobile responsive application that combines basic knowledge on HTML, CSS and GIT with the CSS framework Bootstrap and some Scripts. Created by developers at Twitter, Bootstrap is one of the most widely used frameworks in production, a strong open source to design applications using its grid system structure of rows and columns.
+This mobile responsive application combines basic knowledge on HTML, CSS, GIT, Scripts, and the CSS framework Bootstrap. Created by developers at Twitter, Bootstrap is one of the most widely used frameworks in production, it is a strong open source to build applications using a grid system based on rows and columns.
 
-Starting with a basic structure of index, portfolio and contact webpages, this responsive application delivers an extended structure of a home page, about page, two portfolio galleries and a contact page with functional social media links.
+Starting with index, portfolio and contact pages, this responsive application delivers an extended structure comprised by home, about, portfolio galleries, and contact pages, including functional links to social media.
 
-The featured theme was chosen to deliver a better experience navigating the mobile application featuring a real subject, with a creative twist, atractive images, and a bit of *story-telling.* This project is a first experiment in the process of building a future web developer portfolio.
+The webpage theme was chosen to deliver a better experience when navigating the mobile application, it features a creative twist, atractive images, and a bit of *story-telling.* This project is a first prototype in the process of building a web-developer portfolio.
 
 
 Deployment url: https://jonphoenix.github.io/not-in-this-lifetime/
