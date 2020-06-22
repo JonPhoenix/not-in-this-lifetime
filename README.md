@@ -56,7 +56,7 @@ The home page uses a Jumbotron hero unit featuring a project intro with a mosaic
 - - -
 
 ## Application Screenshots
-```
+
 https://user-images.githubusercontent.com/65391199/85280285-b0795300-b43c-11ea-8bcf-5fdec4a79e72.png
 
 https://user-images.githubusercontent.com/65391199/85280309-bb33e800-b43c-11ea-9cb9-10aab9ebea51.png
@@ -65,4 +65,3 @@ https://user-images.githubusercontent.com/65391199/85280318-c0913280-b43c-11ea-9
 
 https://user-images.githubusercontent.com/65391199/85280322-c424b980-b43c-11ea-9b6a-c2e956def973.PNG
 
-```
