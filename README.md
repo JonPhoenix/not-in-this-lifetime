@@ -28,7 +28,7 @@ The home page uses a Jumbotron hero unit featuring a project intro with a mosaic
 * Proper Boostrap components and grid system
 * Containers / Rows / Columns / Sub-Rows / Sub-Columns
 * Sticky Footer – elegant and responsive across viewports
-* Contact form with functional message input and flexible message space
+* Contact form with functional message input and flexible message box
 ```
 
 ## Code Features
