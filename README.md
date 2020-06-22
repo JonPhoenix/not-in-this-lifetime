@@ -12,9 +12,9 @@ Deployment url: https://jonphoenix.github.io/not-in-this-lifetime/
 
 ## Using Bootstrap Components
 
-The portfolio application was built using containers, rows and columns. The entire layout has Bootstrap components such as a navigation bar at the top of every page with links to the website sections, an elegant page design exploiting the "card" component to build an clean and consistent look and feel across sections.
+This application was built using containers, rows and columns. The entire layout has Bootstrap components such as a navigation bar on every page, links to the website sections, and page design exploiting the "card" component to build a consistent look and feel.
 
-The home page uses a Jumbotron hero unit featuring a project intro with a mosaic of images made with rows, columns, sub-rows and sub-columns. Inside, the gallery sections are organized with 4-column row segments and the contact page uses a form component with simple formgroups.
+The home page uses a Jumbotron unit for the project intro, a mosaic of images built with rows, columns, sub-rows and sub-columns. Inside, the gallery sections are organized using a 4-column row segment structure, and the contact page is a form made of simple formgroups.
 
 ## Responsive Application Features
 
