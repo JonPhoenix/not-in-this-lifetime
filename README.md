@@ -1,4 +1,4 @@
-# Responsive Porfolio Project
+# Responsive Portfolio Project
 
 This is a mobile responsive application that combines basic knowledge on HTML, CSS and GIT with the CSS framework Bootstrap.
 
