@@ -21,7 +21,7 @@ The home page uses a Jumbotron unit for the project intro, a mosaic of images bu
 ```
 * Functional deployment - desktop and mobile
 * Consistent fixed-at-the-top Navbar on each page
-* Full responsivness across viewports in layout and images
+* Responsive web design across viewports in layout and images
 * Functioning Navlinks to home, about, portfolio and contact pages
 * Navlinks that collapse into a "hamburger" toogler and dropdown menu for xs screens
 
