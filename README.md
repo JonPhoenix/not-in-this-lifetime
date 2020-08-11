@@ -61,8 +61,4 @@ The home page uses a Jumbotron unit for the project intro, a mosaic of images bu
 
 ![Not In this Lifetime](https://user-images.githubusercontent.com/65391199/85280309-bb33e800-b43c-11ea-9cb9-10aab9ebea51.png)
 
-![Not In this Lifetime](https://user-images.githubusercontent.com/65391199/85280318-c0913280-b43c-11ea-94c1-e538ef39feab.PNG)
-
-![Not In this Lifetime](https://user-images.githubusercontent.com/65391199/85280322-c424b980-b43c-11ea-9b6a-c2e956def973.PNG)
-
 - - -
